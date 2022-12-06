@@ -5,7 +5,7 @@ The project's objective is to create a library administration system with the Gr
 
 Our team could successfully finish the source code of the program satisfying all the requirements listed in the steps above. Based on the inputs from the user to the GUI, the program will perform the actions accordingly.
 
-====================================================================================================================================================
+======================================================================================================================================================
 MyLinkedList
 Class Structure
 MyLinkedList is a class implementing the MyList interface, which also extends another interface called Collection. MyLinkedList uses nodes of generic type. For its implementation, the class uses the Node class which itself has 2 different variables, one called “element” storing the data of a particular node, and another variable called “next” of Node<E> type pointing to the node next to the given node.
